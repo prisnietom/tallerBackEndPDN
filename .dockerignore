@@ -1,0 +1,4 @@
+#DOCKER IGNORE
+#NODE MODULES
+node_modules
+.git
