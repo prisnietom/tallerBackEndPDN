@@ -20,5 +20,5 @@ const client_options = {
 module.exports = {
    url,
    client_options
-}
+};
 
